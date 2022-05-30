@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on .NCU..
- 💬 Ask me about anything
- I'm from Taiwan
+💬 Ask me about anything
+👯 I'm from Taiwan
 <!--
 **yeelongma/yeelongma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
